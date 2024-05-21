@@ -103,7 +103,7 @@ body {
 .photo {
   width: 100%;
   height: 910px;
-  background: url(../resources/1.png) no-repeat center center;
+  background: url(resources/1.png) no-repeat center center;
   background-size: cover;
   position: absolute;
   clip-path: polygon(0 0, 100% 0, 100% 60%, 50% 100%, 0 60%);
@@ -113,7 +113,7 @@ body {
     margin-top: 560px;
     width: 49%;
     height: 360px;
-    background: url(../resources/2.png) no-repeat center center;
+    background: url(resources/2.png) no-repeat center center;
     background-size: cover;
     position: absolute;
     clip-path: polygon(0 0, 100% 100%, 0 100%);
@@ -124,7 +124,7 @@ body {
     margin-top: 560px;
     width: 49%;
     height: 360px;
-    background: url(../resources/2.png) no-repeat center center;
+    background: url(resources/2.png) no-repeat center center;
     background-size: cover;
     position: absolute;
     clip-path: polygon(100% 0, 100% 100%, 0 100%);    
@@ -218,7 +218,7 @@ body {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: url(../resources/left.png) no-repeat center center;
+    background: url(resources/left.png) no-repeat center center;
     cursor: pointer;
     border: 1px solid #7B685D;
     outline: none;
@@ -230,7 +230,7 @@ body {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: url(../resources/right.png) no-repeat center center;
+    background: url(resources/right.png) no-repeat center center;
     cursor: pointer;
     border: 1px solid #7B685D;
     outline: none;
